@@ -1,0 +1,7 @@
+test.txt
+
+# NPM
+node_modules
+
+# Bun
+bun.lockb
